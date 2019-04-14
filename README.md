@@ -33,7 +33,7 @@ _ACL = Access control list (multiple ACE's), along with owner,group_
 
 * Email reporting sent if there are any changes made, with attached timestamped xml files that can be used with Import-Clixml to revert changes (Acl Object - get/set-acl)
 
-![Image of System Container](https://github.com/SeSeKenny/CustomAdminCount/images/SystemContainer.jpg)
+![Image of System Container](https://github.com/SeSeKenny/CustomAdminCount/raw/master/images/SystemContainer.jpg)
 
 ```powershell
 .\Set-AdminSDHolders.ps1 `
